@@ -17,6 +17,9 @@ struct ContentView: View {
         }
         .padding()
     }
+    
+    // i am learning swift right now
+    // i learned commands, for loops condational code, logical operators
 }
 
 #Preview {

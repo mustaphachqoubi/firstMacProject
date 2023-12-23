@@ -22,7 +22,7 @@ struct ContentView: View {
     // i learned commands, for loops condational code, logical operators
     // now i passed some variables and types challenges
     // initialization and functions, and parameters
-    // still learning
+    // nothing new
 }
 
 #Preview {
